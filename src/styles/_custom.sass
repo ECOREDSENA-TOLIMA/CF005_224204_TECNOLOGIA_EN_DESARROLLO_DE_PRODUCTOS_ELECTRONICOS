@@ -2,14 +2,31 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 9%
+    right: 43%
+    z-index: 1
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 62%
+    right: 71%
+  &-3
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 12%
+    right: 17%
+  &-4
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 12%
+    right: 88%
+  &-5
+    position: absolute
+    top: 30%
+    right: 18%
+    z-index: 2
+.banner-principal__img
+  z-index: 100
 
 @keyframes float1
   0%
@@ -17,3 +34,290 @@
 
   100%
     transform: translateY(0px)
+
+// TAMAÑO IMAGENES //
+.img18
+   max-width: 18px !important
+.img30
+   max-width: 30px !important
+.img40
+  max-width: 40px !important
+.img50
+  max-width: 50px !important
+.img60
+  max-width: 60px !important
+.img70
+   max-width: 70px !important
+.img80
+   max-width: 80px !important
+.img90
+  max-width: 90px !important
+.img100
+  max-width: 100px !important
+.img120
+  max-width: 120px !important
+.img140
+  max-width: 140px !important
+.img160
+  max-width: 160px !important
+.img180
+  max-width: 180px !important
+.img200
+  max-width: 200px !important
+.img250
+  max-width: 250px !important
+.img300
+  max-width: 300px !important
+.img350
+  max-width: 350px !important
+.img400
+  max-width: 400px !important
+.img420
+  max-width: 420px !important
+.img450
+  max-width: 450px !important
+.img600
+  max-width: 600px !important
+.img700
+  max-width: 700px !important
+.img800
+  max-width: 800px !important
+.img900
+  max-width: 900px !important
+
+//FONDOS COMPLETOS DE CONTENIDO//
+.bg_grad-01
+  position: relative
+  .row, p, h2, .titulo-segundo
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: 0
+    left: 0
+    width: calc( 100% + 6rem)
+    height: calc( 100% + 3rem)
+    // background-image: url("../assets/curso/introduccion/fondo1.svg")
+    background-repeat: no-repeat
+    background-size: cover
+    // @media screen and (max-width: 420px)
+    //   background-image: url("../assets/curso/introduccion/fondo1.svg")
+.bg_grad-02
+  position: relative
+  .row, p, h2, .pasos-b, .tarjeta
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: 0
+    left: 0
+    width: calc( 100% + 6rem)
+    height: calc( 100% + 3rem)
+    background-image: url("../assets/curso/tema1/fondo1.png")
+    background-repeat: no-repeat
+    background-size: cover
+    @media screen and (max-width: 420px)
+      background-image: url("../assets/curso/tema1/fondo1.png")
+.bg_grad-03
+  position: relative
+  .row, p, h2, span, .bloque-texto-g
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: 0
+    left: 0
+    width: calc( 100% + 6rem)
+    height: calc( 100% + 3rem)
+    background-image: url("../assets/curso/tema2/fondo1.svg")
+    background-repeat: no-repeat
+    background-size: cover
+    @media screen and (max-width: 420px)
+      background-image: url("../assets/curso/tema2/fondo1.svg")
+.bg_grad-04
+  position: relative
+  p
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: 64%
+    left: 23%
+    width: 80%
+    height: 24%
+    background-color: #DDC3DA
+    @media screen and (max-width: 992px)
+      height: 35%
+      top: 67%
+      left: 9%
+      width: calc(100% + 3rem)
+.bg_grad-05
+  position: relative
+  .titulo-segundo, .row, p, .titulo-sexto
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: 0
+    left: 0
+    width: calc( 100% + 6rem)
+    height: calc( 100% + 3rem)
+    background-image: url("../assets/curso/tema3/fondo1.png")
+    background-repeat: no-repeat
+    background-size: cover
+    @media screen and (max-width: 420px)
+      background-image: url("../assets/curso/tema3/fondo1.png")
+.bg_grad-06
+  position: relative
+  .titulo-segundo, .row, p
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: 0
+    left: 0
+    width: calc( 100% + 6rem)
+    height: calc( 100% + 4rem)
+    background-image: url("../assets/curso/tema3/fondo2.png")
+    background-repeat: no-repeat
+    background-size: cover
+    @media screen and (max-width: 420px)
+      background-image: url("../assets/curso/tema3/fondo2.png")
+.bg_grad-07
+  position: relative
+  .titulo-segundo, .row, p, .titulo-sexto, figure
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem
+    top: 0
+    left: 0
+    width: calc( 100% + 6rem)
+    height: calc( 100% + 3rem)
+    background-image: url("../assets/curso/tema4/fondo1.png")
+    background-repeat: no-repeat
+    background-size: cover
+    @media screen and (max-width: 420px)
+      background-image: url("../assets/curso/tema4/fondo1.png")
+    
+
+//COLOR CONTENIDOS Y TEXTO//
+.colr
+  color: #A50491
+  //FONDOS//
+.bgr
+  background-color: #D9F8F2
+  &::before
+    background-color: #00CCA7
+  &_1
+    background-color: #A1008D
+  &_2
+    background-image: url("../assets/curso/tema1/fondo2.png")
+    background-repeat: no-repeat
+    background-size: contain
+    @media screen and (max-width: 420px)
+      background-image: none
+      background-color: #EFEFEF
+  &_3
+    background-color: #F5F5F5
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px 
+    figcaption
+      background-color: #F5F5F5
+  &_4
+    background-color: #C6F9EF
+    border-radius: 10px
+  &_5
+    background-color: #FBE594
+  &_6
+    .modal-a__content
+      background-color: none
+      background-image: url("../assets/curso/tema2/fondo2.png")
+      background-repeat: no-repeat
+      background-size: cover
+  &_7
+    .tarjeta--azul.acordion__activo
+      background-color: #D8F7F1
+    .tarjeta--azul
+      background-color: #E8E8E8
+  &_8
+    background-color: #DCC9DC
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px 
+    border-bottom-left-radius: 10px
+    border-bottom-right-radius: 10px
+    font-size: 0.875em
+    font-weight: 400
+  &_9
+    .modal-a__content
+      background-color: #D8F7F1
+  &_10
+    background-color: #DDC3DA
+    border-radius: 10px
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px
+  &_11
+    background-color: #FBE594
+    &::before
+      background-color: #FFCC26
+  &_12
+    background-color: #DEE4F0
+    border-radius: 10px
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px 
+    transition: transform .3s ease-in-out
+    &:hover
+      background-color: $color-primario
+      transform: scale(1.1)
+      transform: translateY(-30px)
+  &_13
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px
+    z-index: 0
+
+//POSICION EN PANTALLA//
+.pst
+  position: absolute
+  top: 16px
+  left: -10px
+  @media screen and (max-width: 420px)
+    top: -8px
+    left: -33px
+    
+  &_1
+    position: absolute
+    bottom: 30px
+    right: 56%
+    @media screen and (max-width: 992px)
+      right: 21%
+      bottom: -3px
+  &_2
+    font-size: 0.8em
+  &_3
+    font-size: 8px
+    top: 7px !important
+//PasosB PERSONALIZADO//
+.pasos-b__header__item--before .pasos-b__header__item__dot
+  background-color: #00CCA7
+  border-color: #00CCA7
+.pasos-b__header__item--before .pasos-b__header__item__line-container:after 
+  background-color: #00CCA7
+  height: 5px
+.pasos-b__header__item--active .pasos-b__header__item__line-container:before
+  background-color: #00CCA7
+  height: 5px
+.pasos-b__header__item--before .pasos-b__header__item__line-container:before
+  background-color: #00CCA7
+  height: 5px
+.pasos-b__header__item__line-container:after
+  height: 5px
+.pasos-b__header__item__line-container:before
+  height: 5px
+.pasos-b__header__item__dot
+  background-color: white
+.pasos-b__header__btn--left
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px
+.pasos-b__header__btn--right
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px
