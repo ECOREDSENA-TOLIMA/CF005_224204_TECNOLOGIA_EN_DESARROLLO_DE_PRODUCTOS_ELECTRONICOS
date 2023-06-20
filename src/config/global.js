@@ -140,7 +140,7 @@ export default {
       referencia:
         '<em>Spiess</em>, C. (1972). Los circuitos impresos. Servicio Nacional de Aprendizaje (SENA).',
       tipo: 'Libro electrónico',
-      descarga: '/downloads/1375_los_circuitos_impresos.pdf',
+      link: 'https://repositorio.sena.edu.co/handle/11404/5279',
     },
     {
       tema: 'Circuitos impresos',
