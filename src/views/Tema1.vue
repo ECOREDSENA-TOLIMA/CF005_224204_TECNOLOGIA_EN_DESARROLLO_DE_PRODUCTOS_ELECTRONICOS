@@ -13,7 +13,7 @@
           .cajon.bgr.p-4.mb-3
             p.mb-0 Para el diseño de un circuito impreso se utilizan componentes eléctricos como las resistencias, condensadores, bobinas, diodos y transistores -vistos en los componentes anteriores-, que cumplen la tarea de un objetivo determinado. Son populares en las instituciones educativas del área de electrónica y sirven de base para diferentes aplicaciones.
           span Hay una gran variedad de programas para diseñar los circuitos impresos. Según 
-          span.colr.text-bold Proto Electronics (s.f.), 
+          span.colr.text-bold <em>Proto Electronics (s.f.),</em> 
           | existen distintos <em>softwares</em> gratuitos (de uso libre) y de pago para el diseño de circuitos impresos, que van desde la fase de protocolo hasta la industrialización, los cuales tienden a costar decenas de miles de dólares, entonces, ¿cómo saber escoger?
           br
           br
