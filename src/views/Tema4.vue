@@ -22,7 +22,7 @@
           span <em>Documentación del diseño</em>
         
         figure.mb-5(data-aos="flip-left")
-          img(src='@/assets/curso/tema4/t4-2.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema4/t4-2.svg', alt='Texto que describa la imagen')
         
         .cajon.bgr_11.p-4.mb-5(data-aos="flip-down")
           .row

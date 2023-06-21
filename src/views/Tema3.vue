@@ -18,7 +18,7 @@
       .col-12.col-md-6(data-aos="fade-right")
         p Muchos de los dispositivos que se producen tienen parte electrónica para control, regulación y hasta para integración con otras tecnologías y/o sistemas de comunicaciones. Por estas razones es necesario que las tarjetas electrónicas cumplan con las normas de estandarización como pueden ser las determinadas por la ISO, <em>International Standardization Organization</em>, organización que es acogida por la mayoría de los países y cubre muchos aspectos, entre ellos la gestión de calidad, el medioambiente, la salud y seguridad en el trabajo, y el área de tecnología; y a su vez las normas de uso internacional son acogidas para normas nacionales en los países. 
         .cajon.bgr.p-4.mb-3
-          p.mb-0 De la ISO, con aplicación al tema de circuitos, se rescatan normas de hardware mecánico, calidad y estandarización numérica.
+          p.mb-0 De la ISO, con aplicación al tema de circuitos, se rescatan normas de <em>hardware</em> mecánico, calidad y estandarización numérica.
       .col-12.col-md-6(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/t3-2.png', alt='Texto que describa la imagen')
