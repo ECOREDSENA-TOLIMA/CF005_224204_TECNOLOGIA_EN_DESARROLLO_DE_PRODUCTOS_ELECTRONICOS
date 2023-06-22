@@ -25,13 +25,13 @@
 
       .tarjeta.bgr_2.p-4.mb-3(data-aos="flip-up")
         PasosB.color-acento-contenido
-          .row.p-3
-            .col-md-6.mb-4.mb-md-0
+          .row.py-0.my-0
+            .col-md-6.mb-md-5
               p.text-bold <em>Eagle</em>
               p Es un programa informático para diseño de circuitos impresos y tarjetas electrónicas creado por la empresa alemana <em>Cad Soft Computer</em> GmbH, la cual fue posteriormente adquirida por <em>Autodesk</em> en 2016. <em>EAGLE</em> significa <em>Easily Applicable Graphical Layout Editor.</em>
               p Este programa permite crear y editar diagramas electrónicos, editar tarjetas de circuitos impresos con enrutadores y generar archivos <em>GERBER</em>. Posee una amplia biblioteca de componentes y trabaja con un programa de programación similar al lenguaje C.
               p Cuenta con un sinnúmero de tutoriales, cuatro versiones de costo y una para el campo educacional que no tiene valor. Adicional a ello, posee la ventaja de funcionar fuera de <em>Windows</em> en ambientes <em>Mac OS</em> X o <em>Linux</em>.
-            .col-md-6.mb-3
+            .col-md-6.mb-5.md-5
               .bgr_3.p-4
                 figure
                   img(src='@/assets/curso/tema1/t1-2.png', alt='Texto que describa la imagen')
@@ -46,8 +46,8 @@
                       a.boton.color-acento-botones(href="https://www.autodesk.fr/products/eagle/overview" target="_blank")
                         span Ver más
                         i.fas.fa-link
-          .row.p-3
-            .col-md-12.mb-4.mb-md-3
+          .row.p-3.mb-5
+            .col-md-12.mb-5.mb-md-5
               p.text-bold <em>Altium</em>
               p Creada con el nombre de <em>Protel Systems</em> en Australia, transformándose en <em>Altium</em> en 2001 para convertirse como empresa del mercado estadounidense. El programa es utilizado por un alto número de usuarios y ofrece otras herramientas adicionales a las de la industria. 
               p Permite el diseño de las tarjetas impresas de circuitos o PCB, de las siglas en inglés <em>Printer Circuit Boards</em>, con su etapa de diagramación, incluyendo los planos, ubicación de componentes y rutas de conexión, además de documentación y simulación. 
@@ -63,8 +63,8 @@
                       a.boton.color-acento-botones(href="https://www.autodesk.fr/products/eagle/overview" target="_blank")
                         span Ver más
                         i.fas.fa-link
-          .row.p-3
-            .col-md-6.mb-4.mb-md-0
+          .row.p-3.mb-5
+            .col-md-6.mb-5.mb-md-0
               p.text-bold <em>Proteus</em>
               p Fue fabricado por <em>Lab Center Electronics</em> Ltd., empresa del Reino Unido. Se caracteriza por dos paquetes principales de programas: ISIS, para la creación de esquemas y simulación eléctrica, y ARES para la solución de enrutamiento del PCB, con la disposición automática de los componentes.
               p El programa IRIS trae integrado el módulo VSM que se encarga del modelado virtual del sistema. El programa ARES, o <em>Advanced Routing and Editing Software</em> (<em>Software</em> de Edición y Ruteo Avanzado) se encarga del enrutado, ubicación de componentes y la fabricación propia del circuito impreso. Posee una amplia biblioteca de componentes en la librería.
@@ -84,8 +84,8 @@
                       a.boton.color-acento-botones(href="https://www.labcenter.com/" target="_blank")
                         span Ver más
                         i.fas.fa-link
-          .row.p-3
-            .col-md-6.mb-4.mb-md-0
+          .row.p-3.mb-5
+            .col-md-6.mb-5.mb-md-5
               p.text-bold <em>KiCad</em>
               p Es un programa libre y de código abierto para el diseño de tarjetas de circuito impresos, desarrollado inicialmente por Jean-Pierre Charras y actualmente administrado por <em>Kicad Development Team</em>. Este programa de diseño incluye la gestión de esquemas, el enrutamiento de PCB y la posibilidad de modelado en 3D para los ingenieros electrónicos.
               p Cumple con todas las funcionalidades de un buen programa de diseño de PCB, con gestión de proyectos, edición de planos y esquemas electrónicos, edición de circuitos impresos, ubicación de componentes, uso de archivos <em>Gerber</em>, y herramientas de ayuda para el cálculo de componentes.
@@ -104,8 +104,8 @@
                       a.boton.color-acento-botones(href="https://www.kicad.org/" target="_blank")
                         span Ver más
                         i.fas.fa-link
-          .row.p-3
-            .col-md-12.mb-4.mb-md-3
+          .row.p-3.mb-5
+            .col-md-12.mb-5.mb-md-5
               p.text-bold Velocidad OrCAD PCB <em>Designer</em>
               p Es otro programa muy utilizado en el diseño de tarjetas de circuitos impresos, desarrollado por la fusión de SDA <em>Systems</em> y ECAD, usado para dibujar planos o esquemas electrónicos, simulación o modelado y para la elaboración de los circuitos impresos y sus respectivas placas. 
               p Ayuda en la colocación de los componentes y enrutamiento, a través de la opción de enrutamiento interactivo; puede realizar modificación automática, tiene mejora de rendimiento y de la fiabilidad del PCB. Además cuenta con simulación mecánica y eléctrica de los circuitos eléctricos electrónicos, librerías y editor de símbolos.
@@ -120,7 +120,7 @@
                       a.boton.color-acento-botones(href="https://www.orcad.com/products/orcad-pcb-designer/overview" target="_blank")
                         span Ver más
                         i.fas.fa-link
-          .row.p-3
+          .row.p-3.mb-5
             .col-md-6.mb-4.mb-md-0
               p.text-bold <em>Design Spark</em>
               p Es un programa de diseño asistido por computador CAD electrónico libre, resultado de la colaboración entre el principal distribuidor de componentes del mundo, RS Components, y el desarrollador de <em>software Number One Systems</em>. Es un programa único y motor poderoso de diseño de PCB que habilita la captura de esquemáticos, diseño de las tarjetas de circuitos impresos y sus planos. 
@@ -140,7 +140,7 @@
                       a.boton.color-acento-botones(href="https://www.kicad.org/" target="_blank")
                         span Ver más
                         i.fas.fa-link
-          .row.p-3
+          .row.p-3.mb-5
             .col-md-12.mb-4.mb-md-3
               p.text-bold <em>Protel</em>
               p Es un programa conocido como la versión inicial de <em>Altium Designer</em>, pero no por eso es reconocido, sino por sus grandes fortalezas en el diseño de tarjetas de circuitos impresos PCB. 
@@ -156,8 +156,8 @@
                       a.boton.color-acento-botones(href="https://www.raypcb.com/protel-pcb/" target="_blank")
                         span Ver más
                         i.fas.fa-link
-          .row.p-3
-            .col-md-6.mb-4.mb-md-0
+          .row.p-3.mb-5
+            .col-md-6.mb-4.mb-5
               p.text-bold <em>CADSTAR</em>
               p Es una herramienta de <em>software</em> de automatización del diseño electrónico (EDA) basada en <em>Windows</em> para diseñar y crear diagramas esquemáticos y placas de circuito impreso (PCB). Proporciona a los ingenieros una herramienta para el diseño de placas de circuito impreso simples o complejas, de varias capas.
               p Cadstar abarca la captura de esquemas, la gestión de variantes, la colocación, el enrutamiento automático y de alta velocidad, la integridad de la señal, la integridad de la energía, el análisis de EMC, la comprobación de las reglas de diseño y la producción de datos de fabricación.
@@ -177,8 +177,8 @@
                       a.boton.color-acento-botones(href="https://www.ecadstar.com/fr/product/cadstar/" target="_blank")
                         span Ver más
                         i.fas.fa-link
-          .row.p-3
-            .col-md-12.mb-4.mb-md-3
+          .row.p-3.mb-5
+            .col-md-12.mb-4.mb-5.md-3
               p.text-bold <em>Sprint-Layout</em>
               p <em>Sprint-Layout</em> es un programa utilizado para el diseño rápido y sencillo de placas de circuito impreso. Dispone de una amplia biblioteca con una serie de componentes comunes, desarrollado por Abacom. 
               p Es un <em>software</em> fácil de utilizar para el diseño de tarjetas de circuitos impresos electrónicos con la ventaja de bibliotecas, función automatizada de PCB, en doble cara, generación de archivos para documentación <em>Gerber</em> y <em>Excellon</em>, entre las principales características.
@@ -192,8 +192,8 @@
                       a.boton.color-acento-botones(href="https://www.electronic-software-shop.com/lng/en/electronic-software/sprint-layout-60.html" target="_blank")
                         span Ver más
                         i.fas.fa-link
-          .row.p-3
-            .col-md-12.mb-4.mb-md-3
+          .row.p-3.mb-5
+            .col-md-12.mb-4.mb-5.md-3
               p.text-bold PADS PCB
               p PADS es desarrollado por la <em>Société Mentor Graphic</em>, empresa francesa adquirida por el grupo <em>Siemens</em> de Alemania. Está pensado para la pequeña y gran empresa, pues permite una fácil configuración del diseño de PCB. El programa soporta al técnico o ingeniero desde el inicio del prediseño hasta la impresión final. 
               p Tiene varias características relacionadas con el diseño de planos, gestión de las cargas eléctricas, rutas de conexión, librerías de componentes, ubicación y enrutamiento interactivo con herramientas CAD, archivos de documentación, simulación analógica y/o digital. Análisis de la integridad de la señal transmitida y de las cargas eléctricas o físicas comprometidas.

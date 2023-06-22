@@ -48,13 +48,6 @@ export default {
         titulo:
           'Implementación del diseño para la fabricación del circuito impreso, en <em>software</em> especializado ',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
