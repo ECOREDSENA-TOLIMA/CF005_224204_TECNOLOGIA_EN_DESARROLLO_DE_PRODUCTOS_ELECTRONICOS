@@ -31,7 +31,7 @@
               figure.d-flex.justify-content-center
                 img.img70(src='@/assets/curso/tema2/t2-2.svg', alt='Texto que describa la imagen')
             .col-12.col-md-10
-              p.mb-0 Las características utilizadas se referencian según protocolos y parámetros programados en la simulación y están basados de acuerdo al trabajo, medioambiente e interacciones que el modelo o prototipo debería realizar al iniciar la operación.
+              p.mb-0 Las características utilizadas se referencian según protocolos y parámetros programados en la simulación y están basados de acuerdo al trabajo, medio ambiente e interacciones que el modelo o prototipo debería realizar al iniciar la operación.
             
           figure(data-aos="flip-left")
             img(src='@/assets/curso/tema2/t2-3.svg', alt='Texto que describa la imagen')

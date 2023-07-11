@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p A continuación, se describe el tema principal del Componente Formativo CF05 Diseño de placas para circuito impreso, por medio de los conceptos básicos acerca de la implementación del diseño y ensamble de tarjetas electrónicas, herramientas de diseño como CAD/CAM, normas internacionales relacionadas con el ensamble electrónico, normativa de seguridad y salud en el trabajo y la importancia de la documentación del diseño para fabricación de placas.
+    p.mb-5 A continuación, se describe el tema principal del componente formativo Diseño de placas para circuito impreso, por medio de los conceptos básicos acerca de la implementación del diseño y ensamble de tarjetas electrónicas, herramientas de diseño como CAD/CAM, normas internacionales relacionadas con el ensamble electrónico, normativa de seguridad y salud en el trabajo y la importancia de la documentación del diseño para fabricación de placas.
 
     .row.justify-content-center
       .col-lg-12.mb-5

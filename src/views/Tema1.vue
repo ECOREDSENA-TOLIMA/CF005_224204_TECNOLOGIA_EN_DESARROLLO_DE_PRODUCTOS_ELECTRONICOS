@@ -13,7 +13,7 @@
           .cajon.bgr.p-4.mb-3
             p.mb-0 Para el diseño de un circuito impreso se utilizan componentes eléctricos como las resistencias, condensadores, bobinas, diodos y transistores -vistos en los componentes anteriores-, que cumplen la tarea de un objetivo determinado. Son populares en las instituciones educativas del área de electrónica y sirven de base para diferentes aplicaciones.
           span Hay una gran variedad de programas para diseñar los circuitos impresos. Según 
-          span.colr.text-bold <em>Proto Electronics (s.f.),</em> 
+          span.colr.text-bold <em>Proto Electronics (s.f.), </em>  
           | existen distintos <em>softwares</em> gratuitos (de uso libre) y de pago para el diseño de circuitos impresos, que van desde la fase de protocolo hasta la industrialización, los cuales tienden a costar decenas de miles de dólares, entonces, ¿cómo saber escoger?
           br
           br
@@ -60,7 +60,7 @@
                     .col.mb-3.mb-sm-0
                       p.mb-0.text-white En la página web de Altium puede descargar una versión completa de prueba y probarla durante 15 días. También se encuentran disponibles talleres virtuales. 
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="https://www.autodesk.fr/products/eagle/overview" target="_blank")
+                      a.boton.color-acento-botones(href="https://www.altium.com/altium-designer" target="_blank")
                         span Ver más
                         i.fas.fa-link
           .row.p-3.mb-5
@@ -137,7 +137,7 @@
                     .col.mb-3.mb-sm-0
                       p.mb-0.text-white Si desea conocer más sobre este <em>software</em>, le invitamos a revisar el enlace.  
                     .col-sm-auto
-                      a.boton.color-acento-botones(href="https://www.kicad.org/" target="_blank")
+                      a.boton.color-acento-botones(href="https://www.rs-online.com/designspark/pcb-software" target="_blank")
                         span Ver más
                         i.fas.fa-link
           .row.p-3.mb-5

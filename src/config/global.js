@@ -138,7 +138,7 @@ export default {
       referencia:
         '<em>Spiess</em>, C. (1972). Los circuitos impresos. Servicio Nacional de Aprendizaje (SENA).',
       tipo: 'Libro electrónico',
-      link: 'https://repositorio.sena.edu.co/handle/11404/5279',
+      link: 'https://hdl.handle.net/11404/5279',
     },
     {
       tema: 'Circuitos impresos',
@@ -208,7 +208,7 @@ export default {
     },
     {
       referencia:
-        'Fritzing Team. (2014). Fritizing breadboard view. [Imagen]. Wikipedia.',
+        'Fritzing Team. (2014). Fritzing breadboard view. [Imagen]. Wikipedia.',
       link:
         'https://commons.wikimedia.org/wiki/File:Fritzing_breadboard_view_(new).png',
     },
@@ -219,7 +219,7 @@ export default {
     },
     {
       referencia:
-        '<em>Proto Electronics.</em> (s.f.). Software de diseño de circuito impreso: nuestro top 10.',
+        '<em>Proto Electronics.</em> (s.f.). <i>Software</i> de diseño de circuito impreso: nuestro top 10.',
       link:
         'https://www.proto-electronics.com/es/blog/software-de-dise%C3%B1o-de-circuito-impreso-nuestro-top-10',
     },
@@ -253,40 +253,36 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Ángela Rocío Sánchez Ruiz',
-          cargo: 'Experto Temático',
-          centro: 'Centro de Electricidad, Electrónica y Telecomunicaciones',
-        },
-        {
-          nombre: 'Miroslava González H.',
-          cargo: 'Diseñador y Evaluador Instruccional',
-          centro: 'Centro de Gestión Industrial',
-        },
-        {
-          nombre: 'Juan Gilberto Giraldo Cortés',
-          cargo: 'Diseñador Instruccional',
-          centro: '',
-        },
-        {
-          nombre: 'Álix Cecilia Chinchilla Rueda',
-          cargo: 'Evaluadora Instruccional',
-          centro: 'Centro de Gestión Industrial',
-        },
-        {
-          nombre: 'Viviana Esperanza Herrera Quiñones',
-          cargo: 'Asesora Metodológica',
-          centro: 'Centro de Comercio y Servicios',
-        },
-        {
-          nombre: 'Rafael Neftalí Lizcano',
-          cargo: 'Asesor Pedagógico',
+          nombre: 'Andrés Aurelio Alarcon Tique ',
+          cargo: 'Experto Técnico ',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital Centro de Electricidad, Electrónica y Telecomunicaciones',
         },
         {
-          nombre: 'Darío González',
-          cargo: 'Revisión y Corrección de Estilo',
-          centro: 'Regional Tolima - Centro Agropecuario La Granja',
+          nombre: 'Miroslava González Hernández ',
+          cargo: 'Diseñador y Evaluador Instruccional ',
+          centro: 'Regional Distrito Capital Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Humberto Arias Díaz ',
+          cargo: 'Diseñador Instruccional ',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Carolina Coca Salazar ',
+          cargo: 'Revisora Metodológica y Pedagógica  ',
+          centro: 'Regional Distrito Capital Centro de Diseño y Metrología ',
+        },
+        {
+          nombre: 'José Gabriel Ortiz Abella ',
+          cargo: 'Corrector de Estilo ',
+          centro:
+            'Regional Distrito Capital Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
+          cargo: 'Asesora Metodológica',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -294,29 +290,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'José Jaime Luis Tang',
+          nombre: 'José Jaime Luis Tang Pinzón',
           cargo: 'Diseñador Web',
-          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Francisco José Vásquez Suárez',
+          nombre: 'Francisco Javier Vásquez Suárez',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Storyboard e Ilustración',
-          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
-          cargo: 'Animador y Producción Audiovisual',
-          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+          cargo: 'Producción Audiovisual',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Sebastián Trujillo Afanador',
+          nombre: 'Oleg Litvin',
+          cargo: 'Animador ',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Oscar Iván Uribe Ortiz',
           cargo: 'Actividad Didáctica',
-          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
