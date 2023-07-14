@@ -106,7 +106,7 @@
                         i.fas.fa-link
           .row.p-3.mb-5
             .col-md-12.mb-5.mb-md-5
-              p.text-bold Velocidad OrCAD PCB <em>Designer</em>
+              p.text-bold OrCAD PCB <em>Designer</em>
               p Es otro programa muy utilizado en el diseño de tarjetas de circuitos impresos, desarrollado por la fusión de SDA <em>Systems</em> y ECAD, usado para dibujar planos o esquemas electrónicos, simulación o modelado y para la elaboración de los circuitos impresos y sus respectivas placas. 
               p Ayuda en la colocación de los componentes y enrutamiento, a través de la opción de enrutamiento interactivo; puede realizar modificación automática, tiene mejora de rendimiento y de la fiabilidad del PCB. Además cuenta con simulación mecánica y eléctrica de los circuitos eléctricos electrónicos, librerías y editor de símbolos.
               p <em>Cadence Design Systems</em> es una empresa líder en el mercado de <em>software</em> de CAO electrónico; y edita los programas <em>Allegro PCB Designer y OrCAD</em>.
