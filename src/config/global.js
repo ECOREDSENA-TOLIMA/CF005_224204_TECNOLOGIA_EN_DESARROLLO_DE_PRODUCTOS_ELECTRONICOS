@@ -136,13 +136,6 @@ export default {
     {
       tema: 'Circuitos impresos',
       referencia:
-        '<em>Spiess</em>, C. (1972). Los circuitos impresos. Servicio Nacional de Aprendizaje (SENA).',
-      tipo: 'Libro electrónico',
-      link: 'https://hdl.handle.net/11404/5279',
-    },
-    {
-      tema: 'Circuitos impresos',
-      referencia:
         'Todo sobre circuitos. (s.f.). Circuitos Impresos. Funciones, elementos y características.',
       tipo: 'Página web',
       link: 'https://www.circuitos-electricos.com/circuitos-impresos-pcb/',
